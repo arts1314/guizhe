@@ -1,2 +1,4 @@
 DOMAIN-KEYWORD,emby
+DOMAIN,emby.riches.cloud.misakaf.electron
 DOMAIN-KEYWORD,misakaf
+PROCESS-NAME,electron.exe
