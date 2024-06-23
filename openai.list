@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,poe
+DOMAIN-KEYWORD,coze
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -16,3 +17,4 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,coze.com
